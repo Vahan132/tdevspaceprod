@@ -1,0 +1,136 @@
+{
+  "app": {
+    "welcome": "Welcome to"
+  },
+  "about": {
+  "title": "About TDevSpace",
+  "intro": "TDevSpace is a modern, creative learning environment where aspiring developers and curious young minds come together to explore the ever-evolving world of technology.",
+    "philosophy": "We believe that education should be practical, inspiring, and personal — not just theoretical. That’s why we built TDevSpace not as another course platform, but as a mentorship-driven community that helps learners unlock their full potential through hands-on experience and real guidance.",
+    "whatWeOffer": {
+      "title": "What We Offer",
+      "mentorship": "Real Mentorship: Students are guided by experienced developers who provide real feedback, code reviews, and support.",
+      "projects": "Project-Based Learning: Every course includes real-world projects so learners graduate with a portfolio they can showcase.",
+      "forAll": "For All Ages & Levels: Whether you’re just starting out or preparing for a tech career, we tailor our approach to your level."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "slogan": "Learn. Build. Evolve.",
+      "learnBuildEvolve": "We help learners learn modern tools and technologies, build real applications and websites, and evolve into confident developers ready to take on the future.",
+      "belief": "At TDevSpace, we believe that everyone can create something meaningful with code — and we’re here to help you get there, one step at a time."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch with TDevSpace",
+    "success": "Thank you! We’ll get back to you soon.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "How can we help you?",
+      "submit": "Send Request"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "2nd Microdistrict, 18/1, Abovyan, Armenia"
+    }
+  },
+  "courses": {
+    "title": "Courses We Offer",
+    "learnMore": "Learn More",
+    "js": {
+      "title": "JavaScript Fundamentals",
+      "description": "Master JS basics — variables, loops, DOM, and logic building."
+    },
+    "react": {
+      "title": "React & Redux Mastery",
+      "description": "Build real-world SPAs with React, Context API, and Redux Toolkit."
+    },
+    "kids": {
+      "title": "Web Dev for Kids",
+      "description": "Intro to HTML, CSS, JavaScript for children with fun projects."
+    },
+    "math": {
+      "title": "Math Enrichment",
+      "description": "Boost logic, critical thinking, and math skills through engaging activities."
+    }
+  },
+  "course": {
+    "backToCourses": "Back to Courses",
+    "overview": "Course Overview",
+    "learningPoints": "What You’ll Learn",
+    "duration": "Duration",
+    "tuition": "Tuition",
+    "applyNow": "Apply Now",
+    "month": "Month",
+    "months": "Months",
+
+    "js": {
+      "title": "JavaScript Fundamentals",
+      "description": "Master JS basics — variables, loops, DOM, and logic building.",
+      "summary": "This 9-month course is perfect for beginners who want to start their programming journey with confidence. It focuses on clarity, practice, and strong foundations.",
+      "point1": "JavaScript syntax, variables, and data types",
+      "point2": "Functions, loops, conditionals",
+      "point3": "DOM manipulation and event handling",
+      "point4": "Asynchronous JS and API integration",
+      "duration": "9 Months",
+      "tuition": "40,000 AMD/Month"
+    },
+    "react": {
+      "title": "React & Redux Mastery",
+      "description": "Build real-world SPAs with React, Context API, and Redux Toolkit.",
+      "summary": "This 4-month course is tailored for students who already know JavaScript and want to build production-grade apps using React and Redux. You'll master advanced frontend concepts and build a complete SPA.",
+      "point1": "React fundamentals: JSX, components, and hooks",
+      "point2": "Advanced state management with Redux Toolkit",
+      "point3": "Using Context API and React Router",
+      "point4": "Building and deploying full Single Page Applications",
+      "duration": "4 Months",
+      "tuition": "40,000 AMD/Month"
+    },
+    "kids": {
+      "title": "Web Dev for Kids",
+      "description": "Intro to HTML, CSS, JavaScript for children with fun projects.",
+      "summary": "This 4-month playful course introduces kids (ages 10–16) to the world of web development. Students will learn how to build websites from scratch in a visual and interactive way.",
+      "point1": "Creating pages with HTML",
+      "point2": "Styling with CSS for fun layouts",
+      "point3": "Adding interactivity using JavaScript basics",
+      "point4": "Mini-projects like personal websites and simple games",
+      "duration": "4 Months",
+      "tuition": "25,000 AMD/Month"
+    },
+    "math": {
+      "title": "Math Enrichment",
+      "description": "Boost logic, critical thinking, and math skills through engaging activities.",
+      "summary": "This course is designed for students who want to improve their core math skills, build strong logic, and gain confidence in problem solving. Ideal for support in school and preparation for STEM paths.",
+      "point1": "Foundational arithmetic and mental math",
+      "point2": "Algebra and logical problem solving",
+      "point3": "Geometry and visual thinking",
+      "point4": "Real-world application and math games",
+      "duration": "Flexible Duration",
+      "tuition": "15,000 AMD/Month"
+    }
+  },
+  "apply": {
+    "heading": "Which course would you like to apply for?",
+    "headingWithCourse": "Apply to this course",
+    "success": "✅ Thank you! We’ll contact you soon",
+    "subject": "Course Application",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "selectCourse": "Select a course",
+    "submit": "Apply"
+  },
+  "footer": {
+    "rights": "TDevSpace. All rights reserved."
+  },
+  "navbar": {
+    "about": "About",
+    "courses": "Courses",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome to TDevSpace",
+    "subtitle": "A creative, modern learning space where developers and curious minds learn, build, and grow — with real mentorship and practical experience."
+  }
+}
