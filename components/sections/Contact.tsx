@@ -90,7 +90,7 @@ const Contact = () => {
                 className="w-full px-4 py-3 border rounded-md bg-white dark:bg-gray-800 text-gray-800 dark:text-white border-gray-300 dark:border-gray-600"
               />
               <textarea
-                name="message"
+                name="text"
                 value={formData.text}
                 onChange={handleChange}
                 placeholder={t('contact.form.message')}
