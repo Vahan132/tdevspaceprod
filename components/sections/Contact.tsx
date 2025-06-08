@@ -52,7 +52,7 @@ const Contact = () => {
                 name="message"
                 placeholder={t('contact.form.message')}
                 rows={5}
-                className="w-full px-4 py-2 border rounded-md bg-white dark:bg-gray-800 text-gray-800 dark: border-gray-300 dark:border-gray-600"
+                className="w-full px-4 py-2 border rounded-md bg-white dark:bg-gray-800 text-gray-800 dark:text-white dark:border-gray-300 dark:border-gray-600"
                 required
               ></textarea>
               <button
