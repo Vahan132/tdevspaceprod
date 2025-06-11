@@ -40,7 +40,7 @@ const CourseApplyModal = ({ onClose, courseName }: { onClose: () => void; course
         to: formData.to,
         subject: "Course Apply",
         phone: formData.phone,
-        text: `Name: ${formData.name} applied to ${formData.course}`,
+        text: `Name: ${formData.name} applied to ${formData.course}, Email: ${formData.to} Phone: ${formData.phone}`,
       }),
     });
 

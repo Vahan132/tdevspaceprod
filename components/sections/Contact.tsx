@@ -26,7 +26,7 @@ const Contact = () => {
         to: formData.to,
         subject: "Contact us",
         phone: formData.phone,
-        text: `Name: ${formData.name} send contact email ${formData.text}`,
+        text: `Name: ${formData.name} send contact email ${formData.text} Email: ${formData.to} Phone: ${formData.phone}`,
       }),
     });
 
