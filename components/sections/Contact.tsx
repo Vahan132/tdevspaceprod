@@ -138,7 +138,7 @@ const Contact = () => {
             </div>
             <div className="flex items-center gap-3  text-sm">
               <MailOutlined className="text-orange-400 w-5 h-5" />
-              <a href="mailto:contact@tdevspace.com" className="hover:underline">contact@tdevspace.com</a>
+              <a href="mailto:contact@tdevspace.am" className="hover:underline">contact@tdevspace.am</a>
             </div>
 
             <div className="flex items-center gap-3  text-sm">
